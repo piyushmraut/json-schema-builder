@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ant-card {
+  margin-bottom: 16px;
+}
+
+.ant-tabs-content-holder {
+  padding: 16px 0;
+}
